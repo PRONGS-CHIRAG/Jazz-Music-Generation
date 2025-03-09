@@ -51,4 +51,8 @@ This project is inspired by deep learning applications in music generation. The 
 ## License
 This project is open-source and available for use under the MIT License.
 
+---
+**Author:** Chirag N Vijay  
+
+
 
